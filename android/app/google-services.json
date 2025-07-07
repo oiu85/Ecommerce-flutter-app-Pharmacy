@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700094843012",
+    "project_id": "ecommerce-eb14c",
+    "storage_bucket": "ecommerce-eb14c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700094843012:android:f8eab3e86a62ba430cdad1",
+        "android_client_info": {
+          "package_name": "com.Abdulah.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKarVU561hxSSI60thmhdXJtb27Sk28VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
